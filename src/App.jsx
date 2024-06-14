@@ -46,7 +46,7 @@ const App = () => {
   return (
     <main>
       <section className="review">
-        <h2 style={{ marginBottom: '2rem' }}>Feedbacks</h2>
+        <h2 style={{ marginBottom: '2rem' }}>Feedback</h2>
         <div className="img-container">
           <img src={image} alt={name} className="person-img" />
           <span className="quote-icon">
